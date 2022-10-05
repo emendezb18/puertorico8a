@@ -1,0 +1,160 @@
+.titulo1{
+    color:rgb(0, 0, 0);
+    background-color: violet;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo2{
+    color:rgb(0, 0, 0);
+    background-color: yellow;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo3{
+    color:rgb(0, 0, 0);
+    background-color: orange;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo4{
+    color: black;
+    background-color: teal;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo5{
+    color: black;
+    background-color: red;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo6{
+    color: black;
+    background-color: lightskyblue;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo7{
+    color: black;
+    background-color: yellowgreen;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo8{
+    color: black;
+    background-color: lightpink;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo9{
+    color: black;
+    background-color: royalblue;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo10{
+    color: black;
+    background-color: lightsalmon;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo11{
+    color: black;
+    background-color: firebrick;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titulo12{
+    color: black;
+    background-color: yellow ;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.parrafo2{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.parrafo3{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.parrafo1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.enlace{
+    background-color: mediumspringgreen;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-family: 400;
+}
+.enlace2{
+    background-color: aqua;
+    color: black;
+    font-size: 140px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.enlace3{
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-family: 400;
+}
+.background{
+    background-color: lightyellow;
+}
+.navegacion{
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 5px;
+    margin: 15px 20px;
+    font-size: 18px;
+    background-color: lightsalmon;
+}
+.navegacion2{
+    border-style: solid;
+    border-color: darkred;
+    border-width: 5px;
+    margin: 15px 400px;
+    font-size: 18px;
+    background-color: lightcoral;   
+}
+.navegacion3{
+    border-style: solid;
+    border-color: teal;
+    border-width: 5px;
+    margin: 20px 40px;
+    font-size: 18px;
+    background-color: lightseagreen  
+}
+.menu li{
+    display: inline-block;
+}
+.menu>li>a{
+    text-decoration: none;
+    color: black;
+    padding: 7px 7px;
+}
+.menu>li>a:hover{
+    color: blue;
+}
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.imagen .galeria{
+    width: 15px;
+}
+.subtitulo{
+    font-size: 10px;
+}
+.margen{
+    margin-left: 10%;
+}
